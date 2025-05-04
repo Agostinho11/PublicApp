@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+qrcode
+PyPDF2
+pytesseract
+fitz
+opencv-python
+numpy
+Pillow
+reportlab
